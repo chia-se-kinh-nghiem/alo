@@ -1,0 +1,3 @@
+# Powershell trên window
+
+
