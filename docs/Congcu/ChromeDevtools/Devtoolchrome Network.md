@@ -1,14 +1,14 @@
-# Devtool chrome Network
+#  Devtool chrome Network
 
-### 1 ,Waterfall
+## 1 ,Waterfall
 
 Là dòng thời gian chạy cho đến khi yêu cầu được hoàn toàn được sử lý ,mỗi màu trên waterfall tượng trưng cho một công đoạn mà trình duyệt sử lý .Khoảng màu dài cho thấy thời gian công đoạn được hoàn thành càng lâu . Từ đó ta đánh giá được  hiệu năng hệ thống :
 
-![image-20200821215117206](C:\Users\van hieu\3D Objects\alo\docs\Cong cu\image\01.png)
+![image-20200821215117206](../images/01.png)
 
-2,Ý nghĩa các màu trong Waterfall
+## 2,Ý nghĩa các màu trong Waterfall
 
-![image-20200821215422111](C:\Users\van hieu\3D Objects\alo\docs\Cong cu\image\02.png)
+![image-20200821215422111](../images/02.png)
 
 + Queueing :Hàng đợi lưu các request ,các request được thực hiện lần lượt,nếu time requering lớn có nghĩa hàng đợi phải xử lý nhiều request 
 
@@ -34,9 +34,9 @@ Là dòng thời gian chạy cho đến khi yêu cầu được hoàn toàn đư
 
 + Content dowload : thời gian nhận dữ liệu phản hồi 
 
-### Capture screenshots 
+## Capture screenshots 
 
-Bạn muốn xem lại cách trang web được duyệt trong từng khoảng thời gian nhất định devtool có hỗ trợ chụp màn hình .Tích vào ô capture screenshots hoặc kích vào biểu tượng máy quay để chụp lại .Lưu ý qua trình ghi hình mất kha khá thời gia nhé:![image-20200821235816725](../image/03.png)
+Bạn muốn xem lại cách trang web được duyệt trong từng khoảng thời gian nhất định devtool có hỗ trợ chụp màn hình .Tích vào ô capture screenshots hoặc kích vào biểu tượng máy quay để chụp lại .Lưu ý qua trình ghi hình mất kha khá thời gia nhé:![image-20200821235816725](../images/03.png)
 
   
 
