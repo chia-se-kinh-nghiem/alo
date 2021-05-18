@@ -61,7 +61,7 @@ void Out(int *a,int n){
 	}
 	cout<<endl;
 }
-void SellectipnSort(int *a,int n){
+void SelectionSort(int *a,int n){
 	 	for(int i=0;i<n;i++){
 			int minIndex=i;
 			for(int j=i+1;j<n;++j){  //duyệt tìm min trong dãy chưa sắp xếp 
@@ -80,7 +80,7 @@ int main(){
 		for(int i=0;i<n;++i){
 			cin>>a[i];
 		}
-		SellectipnSort(a,n);	
+		SelectionSort(a,n);	
 	
 	}
 
