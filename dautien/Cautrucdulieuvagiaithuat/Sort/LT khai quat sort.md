@@ -1,4 +1,4 @@
-# [LÝ Thuyết ] Thuật toán sắp xếp khái quát 
+# 001,Thuật toán sắp xếp khái quát 
 
 Tìm kiếm là một trong những vấn đề quan trọng nhất của khoa hoc máy tính .
 

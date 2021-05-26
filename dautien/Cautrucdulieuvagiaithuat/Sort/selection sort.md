@@ -1,4 +1,4 @@
-## Selection sort
+## 002,Selection sort
 
 Là thuật toán đơn giản khi đề cập đến vấn đề sắp xếp . Chia dãy cẫn sắp xếp thành 2 phần .Phần đầu gồm các phần tử đã được sắp xếp .Phần 2 gồm các phần tử chưa được sắp xếp . Ban đầu dãy số chưa được sắp xếp  nên số phần tử phần đầu là 0.  Thuật toán tìm số nhỏ nhất trong dãy chưa sắp xếp  ,đỏi chỗ của nó với phần tử đầu của dãy chưa sắp xếp. Mỗi lần như vậy sẽ tăng số phần tử của dãy đầu thêm 1,và giảm 1 phần tử của dãy 2 đi .
 

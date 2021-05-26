@@ -1,4 +1,4 @@
-# Thuật toán Insertion sort 
+# 003,Insertion sort 
 
 Insertion sort hay nôm na là sắp xếp theo kiểu chèn trực tiếp được  thực hiện đơn giản mô phỏng lại cách xếp bài của những người yêu bộ môn giải trí  "Bài tây" . 
 
